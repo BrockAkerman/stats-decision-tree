@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/stats-decision-tree/', // This must match your GitHub repository name
+  base: '/stats-decision-tree/', // This matches your new repo name
 })
