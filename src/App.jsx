@@ -1,4 +1,4 @@
-import ModelDecisionTree from './model_selection_tree_v2' // Use v2 for the expanded version
+import ModelDecisionTree from './model_selection_tree_v3' // Use v2 for the expanded version
 
 function App() {
   return <ModelDecisionTree />
